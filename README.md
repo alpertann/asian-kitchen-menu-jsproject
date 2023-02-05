@@ -1,4 +1,4 @@
-# Asian Kitchen Menu 
+# Asian Kitchen Menu Javascript 
 
 # Used Technologies
 - HTML
